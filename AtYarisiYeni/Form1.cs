@@ -4,6 +4,9 @@ namespace AtYarisiYeni
 {
     public partial class Form1 : Form
     {
+        /*
+         * Yorum satýrrý
+         */
         Random rnd = new Random();
         WindowsMediaPlayer player = new WindowsMediaPlayer();
         int kosus = 0;
